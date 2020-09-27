@@ -1,7 +1,7 @@
 # Instagram followers downloader
   Python script that saves all instagram user followers' username to a file
 
-## Login and password is required
+## Login and password are required
    In order to make successful request to user followers list, you need to authorize
 
 ## Requirements
@@ -30,7 +30,7 @@
    ``python3.7 insta_followers.py``
 
    Put your username, password and username with followers
-   
+
    ```python
 
    Please, put your username here: YOUR_USERNAME
