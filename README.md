@@ -12,20 +12,25 @@
 ## Install
 
    Clone repository
+
    ``git clone https://github.com/kamronbek29/instagram_followers.git``
 
    Install aiohttp using pip:
+
    ``pip install aiohttp``
 
    Install instagram_private_api using pip:
+
    ``pip install git+https://git@github.com/ping/instagram_private_api.git@1.6.0``
 
 ## Usage
 
    Run the script
+
    ``python3.7 insta_followers.py``
 
    Put your username, password and username with followers
+   
    ```python
 
    Please, put your username here: YOUR_USERNAME
